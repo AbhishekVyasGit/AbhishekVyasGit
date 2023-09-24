@@ -1,4 +1,4 @@
-### Hi there 👋
+### About Me 🙋‍♂️
 
 <!--
 **AbhishekVyasGit/AbhishekVyasGit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+  <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
+
+
 <h1 align="center">Hi 👋, I'm Abhishek Vyas</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
 
@@ -28,11 +31,13 @@ Here are some ideas to get you started:
 
 - 👨‍💻 All of my projects are available at [https://github.com/AbhishekVyasGit?tab=repositories](https://github.com/AbhishekVyasGit?tab=repositories)
 
-- 💬 Ask me about **Javascript, Node Js, Express Js, MongoDB**
+- 💬 Ask me about **Javascript, Node Js, Express Js, MongoDB**     <img width="45%" align="right" src="https://i.ibb.co/s19wkFj/sultan-alrefaei-programmer-1.gif" />
+
 
 - 📫 How to reach me **abhishekvyas30008@gmail.com**
 
 - ⚡ Fun fact **I play cricket well.**
+- 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -47,3 +52,7 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishekvyasgit&show_icons=true&locale=en" alt="abhishekvyasgit" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekvyasgit&" alt="abhishekvyasgit" /></p>
+
+
+
+
