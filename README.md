@@ -1,25 +1,12 @@
 ### About Me 🙋‍♂️
 
-<!--
-**AbhishekVyasGit/AbhishekVyasGit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
   <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
 
 
 <h1 align="center">Hi 👋, I'm Abhishek Vyas</h1>
-<h3 align="center">A passionate Backend developer from India</h3>
+<h2 align="center">A passionate Backend Developer from India 💻</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekvyasgit&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekvyasgit" /> </p>
 
