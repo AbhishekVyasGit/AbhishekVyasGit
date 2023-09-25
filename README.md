@@ -1,4 +1,3 @@
-### About Me 🙋‍♂️
 
 
 
@@ -10,7 +9,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekvyasgit&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekvyasgit" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishekvyasgit" alt="abhishekvyasgit" /></a> </p>
+
+<p align="center">
+  <img width="660" src="https://user-images.githubusercontent.com/6661165/92327052-d99b9e00-f091-11ea-9a24-c7ec86982370.png">
+</p>
+
 
 - 🔭 I’m currently working on **chat application**
 
