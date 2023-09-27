@@ -1,18 +1,9 @@
 
 
-
-  <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
-
-
 <h1 align="center">Hi 👋, I'm Abhishek Vyas</h1>
 <h2 align="center">A passionate Backend Developer from India 💻</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekvyasgit&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekvyasgit" /> </p>
-
-
-<p align="center">
-  <img width="660" src="https://user-images.githubusercontent.com/6661165/92327052-d99b9e00-f091-11ea-9a24-c7ec86982370.png">
-</p>
 
 
 - 🔭 I’m currently working on **chat application**
