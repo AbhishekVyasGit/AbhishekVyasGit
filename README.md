@@ -43,7 +43,7 @@
 <br>
 <div align = "center">
   
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishekvyasgit&show_icons=true&locale=en&layout=compact" alt="abhishekvyasgit" height = "208"/></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishekvyasgit&show_icons=true&locale=en&layout=compact" alt="abhishekvyasgit" height = "228"/></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishekvyasgit&show_icons=true&locale=en" alt="abhishekvyasgit" height = "208"/></p>
 
