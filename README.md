@@ -41,7 +41,7 @@
 </div>
 
 <br>
-<div align = "center">
+<div>
   
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishekvyasgit&show_icons=true&locale=en&layout=compact" alt="abhishekvyasgit" height = "228"/></p>
 
