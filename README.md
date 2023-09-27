@@ -41,13 +41,13 @@
 </div>
 
 <br>
-<div align = "center" >
+<div>
   
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishekvyasgit&show_icons=true&locale=en&layout=compact" alt="abhishekvyasgit" height = "210"/></p>
+<p><img  align = "center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishekvyasgit&show_icons=true&locale=en&layout=compact" alt="abhishekvyasgit" height = "230"/></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishekvyasgit&show_icons=true&locale=en" alt="abhishekvyasgit" height = "208"/></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishekvyasgit&show_icons=true&locale=en" alt="abhishekvyasgit" height = "230"/></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekvyasgit&" alt="abhishekvyasgit" height = "250" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekvyasgit&" alt="abhishekvyasgit" height = "230" /></p>
 
 </div>
 
