@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **abhishekvyas30008@gmail.com**
 
-- ⚡ Fun fact **I play cricket well.**
+- ⚡ Fun fact: ***Looking at code you wrote more than two weeks ago is like looking at code you are seeing for the first time.
   <br>
 
 <h2 align="left">Connect with me:</h2>
@@ -42,11 +42,12 @@
 </div>
 
 <br>
+# 📊 GitHub Stats:
 <div>
   
-<p><img  align = "center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishekvyasgit&show_icons=true&locale=en&layout=compact" alt="abhishekvyasgit" height = "230"/></p>
+<p><img  align = "center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishekvyasgit&show_icons=true&locale=en&layout=compact" alt="abhishekvyasgit" height = "200"/></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishekvyasgit&show_icons=true&locale=en" alt="abhishekvyasgit" height = "230"/></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishekvyasgit&show_icons=true&locale=en" alt="abhishekvyasgit" height = "200"/></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekvyasgit&" alt="abhishekvyasgit" height = "230" /></p>
 
