@@ -3,7 +3,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Abhishek Vyas</h1>
 <h2 align="center">A passionate Backend Developer from India 💻</h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekvyasgit&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekvyasgit" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekvyasgit&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekvyasgit"  width="200" /> </p>
 
 
 - 🔭 I’m currently working on **chat application**
@@ -19,12 +19,20 @@
 
 - ⚡ Fun fact: ***Looking at code you wrote more than two weeks ago is like looking at code you are seeing for the first time.
   <br>
+  <br>
 
-<h2 align="left">🛜 Connect with me:</h2>
+<h2 align="left">💼 Portfolio:</h2>
+<p align="left">
+  <a href="https://abhishekvyas-portfolio-site.netlify.app/"> https://abhishekvyas-portfolio-site.netlify.app/ </a>
+</p>
+<br>
+
+<h2 align="left">🤝 Connect with me:</h2>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/abhishek-vyas-708a75235/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abhishek-vyas-708a75235/" height="30" width="40" /></a>
 </p>
 <br>
+
 
 <h2 align="left">🧰 Languages and Tools:</h2> <br>
 <div>
