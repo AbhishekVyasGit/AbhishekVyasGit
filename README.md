@@ -12,10 +12,10 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/AbhishekVyasGit?tab=repositories](https://github.com/AbhishekVyasGit?tab=repositories)
 
-- 💬 Ask me about **Javascript, Node Js, Express Js, MongoDB**     <img width="45%" align="right" src="https://i.ibb.co/s19wkFj/sultan-alrefaei-programmer-1.gif" />
+- 💬 Ask me about **Javascript, Node Js, React Js, Express Js, MongoDB, MySQL**     <img width="45%" align="right" src="https://i.ibb.co/s19wkFj/sultan-alrefaei-programmer-1.gif" />
 
 
-- 📫 How to reach me **abhishekvyas30008@gmail.com**
+- 📫 How to reach me **abhishekvyasdev30@gmail.com**
 
 - ⚡ Fun fact: ***Looking at code you wrote more than two weeks ago is like looking at code you are seeing for the first time.
   <br>
