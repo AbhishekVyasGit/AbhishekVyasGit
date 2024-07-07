@@ -56,7 +56,7 @@
 </div>
 
 <br>
-<h2 align="left"> 📊 GitHub Stats:</h2> <br>
+<h2 align="left"> 📊 GitHub Statistics:</h2> <br>
 <div>
 <br>
   
