@@ -6,13 +6,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekvyasgit&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekvyasgit"  width="200" /> </p>
 
 
-- 🔭 I’m currently working on **chat application**
+- 🔭 I’m currently working as a **Node.js Backend Developer**
 
 - 🌱 I’m currently learning **web sockets**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AbhishekVyasGit?tab=repositories](https://github.com/AbhishekVyasGit?tab=repositories)
 
-- 💬 Ask me about **Javascript, Node Js, React Js, Express Js, MongoDB, MySQL**     <img width="45%" align="right" src="https://i.ibb.co/s19wkFj/sultan-alrefaei-programmer-1.gif" />
+- 💬 Ask me about **Javascript, Node Js, Express Js, MongoDB, MySQL**     <img width="45%" align="right" src="https://i.ibb.co/s19wkFj/sultan-alrefaei-programmer-1.gif" />
 
 
 - 📫 How to reach me **abhishekvyasdev30@gmail.com**
